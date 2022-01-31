@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Tic_TacToe.git/static/css/main.23670525.css",
-    "main.js": "/Tic_TacToe.git/static/js/main.6ed4ac90.js",
-    "static/js/787.393238a3.chunk.js": "/Tic_TacToe.git/static/js/787.393238a3.chunk.js",
-    "index.html": "/Tic_TacToe.git/index.html",
-    "static/media/circle_black_24dp.svg": "/Tic_TacToe.git/static/media/circle_black_24dp.48ab03da853566b2bd1d1843d50627e8.svg",
-    "static/media/clear_black_24dp.svg": "/Tic_TacToe.git/static/media/clear_black_24dp.640e888bf8babe6a6e0d6a6edf669c69.svg",
-    "main.23670525.css.map": "/Tic_TacToe.git/static/css/main.23670525.css.map",
-    "main.6ed4ac90.js.map": "/Tic_TacToe.git/static/js/main.6ed4ac90.js.map",
-    "787.393238a3.chunk.js.map": "/Tic_TacToe.git/static/js/787.393238a3.chunk.js.map"
+    "main.css": "/Tic_Tac_Toe.git/static/css/main.23670525.css",
+    "main.js": "/Tic_Tac_Toe.git/static/js/main.6578d9a4.js",
+    "static/js/787.393238a3.chunk.js": "/Tic_Tac_Toe.git/static/js/787.393238a3.chunk.js",
+    "index.html": "/Tic_Tac_Toe.git/index.html",
+    "static/media/circle_black_24dp.svg": "/Tic_Tac_Toe.git/static/media/circle_black_24dp.48ab03da853566b2bd1d1843d50627e8.svg",
+    "static/media/clear_black_24dp.svg": "/Tic_Tac_Toe.git/static/media/clear_black_24dp.640e888bf8babe6a6e0d6a6edf669c69.svg",
+    "main.23670525.css.map": "/Tic_Tac_Toe.git/static/css/main.23670525.css.map",
+    "main.6578d9a4.js.map": "/Tic_Tac_Toe.git/static/js/main.6578d9a4.js.map",
+    "787.393238a3.chunk.js.map": "/Tic_Tac_Toe.git/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23670525.css",
-    "static/js/main.6ed4ac90.js"
+    "static/js/main.6578d9a4.js"
   ]
 }
